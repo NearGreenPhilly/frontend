@@ -1,3 +1,11 @@
+Fork of front end files from Food Oasis LA, for NearGreenPhilly to work with. (August 2017)
+Goal 1: Is their react/redux based front end something we can adapt, or should we stick to the simpler HTML/CSS/JavaScript of our first version. 
+
+
+
+
+
+
 # Food Oasis
 
 Overview
