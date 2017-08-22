@@ -1,7 +1,7 @@
 {
-  "name": "food-oasis-frontend",
+  "name": "NearGreenPhilly frontend, forked and adapted from food-oasis-frontend",
   "version": "0.0.1",
-  "description": "Food Oasis frontend application",
+  "description": "NearGreenPhilly frontend application, forked and adapted from food-oasis-LA",
   "scripts": {
     "dev": "webpack-dev-server --config ./webpack/webpack-dev.config.js --watch --colors",
     "build": "rm -rf dist && webpack --config ./webpack/webpack-server.config.js --colors",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foodoasisla/frontend/"
+    "url": "git+https://github.com/NearGreenPhilly/frontend/"
   },
-  "author": "Thomas Chen",
+  "author": "Thomas Chen/in Philly, the neargreen team, Miriam Peskowitz on frontend, with gratitude to the work of Thomas Chen and FoodOasisLA",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
