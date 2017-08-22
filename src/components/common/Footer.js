@@ -63,8 +63,9 @@ const Footer = () => {
       </ul>
 
       <section class="sponsors">
-        <h2>Created at</h2>
+        <h2>Created at</h2> <!--doublecheck the link syntax-->
         <div>
+          <a href="https://github.com/neargreenphillys" class="hack-for-philly"> based on the work of </a>
           <a href="http://www.hackforla.org/civic-hack-nights" class="hack-for-la">
             <img src="/assets/images/hackforla.png" alt="Hack for LA" />
           </a>
