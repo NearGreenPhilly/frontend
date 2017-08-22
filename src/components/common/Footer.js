@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <div>
-      <h2>Helping Angelenos find healthy food</h2>
+      <h2>Healthy food for Philadelphia</h2>
       <ul>
         <li><a href='/locations'>Map</a></li>
         <li><a href='/sponsors'>Organizations</a></li>
@@ -14,30 +14,32 @@ const Footer = () => {
         <li><a href='/news'>News</a></li>
         <li><a href='/faqs'>FAQS</a></li>
         <li><a href='#donate'>Donate</a></li>
+        <li>Thank you to FoodOasisLA and Hack for LA</li>
       </ul>
 
       <section class="sponsors">
         <h2>Created at</h2>
         <div>
-          <a href="http://www.hackforla.org/civic-hack-nights" class="hack-for-la">
-            <img src="/../../components/assets/images/hackforla.png" alt="Hack for LA"/>
+          <a href="https://codeforphilly.org/" class="hack-for-la">
+            <img src="/../../components/assets/images/hackforla.png" alt="Hack for LA"/>  <!--change image here -->
           </a>
           
         </div>
       </section>
 
-
+<!--delete? 
       <section id='donate'>
         <h2>Support this project</h2>
         <p>We are a volunteer-based project and would love your donation!</p>
         <p>On the donation page, please choose <em>Los Angeles Brigade</em> and make it in honor of <em>Food Oasis LA</em> with the email address <a href='mailto:info@foodoasis.la'>info@foodoasis.la</a></p>
         <p class="action"><a href="https://www.codeforamerica.org/donate" target="_blank">Donate</a></p>
       </section>
+    -->
     </div>
 
     /* ----- this is what is on the official food oasis 'footer' ----- */
     /*<footer id="navigation">
-      <h2>Helping Angelenos find healthy food</h2>
+      <h2>Healthy food for Philadelphia</h2>
       <ul class="link-list has-icons">
         <li>
           <a href="/locations">
