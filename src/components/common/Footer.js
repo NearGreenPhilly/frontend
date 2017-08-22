@@ -81,11 +81,11 @@ const Footer = () => {
 
       <section class="contact">
         <h2>Have a question? Want to help?</h2>
-        <p class="join"><p>Join us at <a href="http://www.hackforla.org/civic-hack-nights">Hack for LA</a>, Tuesdays at 6pm</p>
+        <p class="join"><p>Join us at <a href="https://codeforphilly.org/">Code for Philly.</a></p>
     </p>
-        <p class="action"><a href="mailto:contact@foodoasis.la">Send us a message</a></p>
+        <p class="action"><a href="mailto:neargreenphilly@gmail.com">Send us a message</a></p>
         <div>
-          <a href="mailto:contact@foodoasis.la">
+          <a href="mailto:neargreenphilly@gmail.com">
             <svg class="email" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="40" height="40">
               <switch>
                 <g>
